@@ -14,7 +14,7 @@ Oto kilka kluczowych punktów, które warto mieć na uwadze:
 
 4. **Nie Skanuj Nieoficjalnych Kodów QR**: Skanuj tylko kod QR logowania ze strony Discorda. Skanowanie kodu QR ze podejrzanych źródeł może zagrozić Twojemu kontu. Bezpieczniej jest korzystać z normalnej metody logowania (nazwa użytkownika i hasło), ponieważ nie omija to uwierzytelniania dwuetapowego (2FA).
 
-5. **Używaj Autentykacji Dwuetapowej (2FA)**: Włącz 2FA na swoich kontach, jeśli to możliwe. Dodaje to dodatkową warstwę bezpieczeństwa i utrudnia oszustom dostęp.
+5. **Używaj uwierzytelniania dwuskładnikowego (2FA)**: Włącz 2FA na swoich kontach, jeśli to możliwe. Dodaje to dodatkową warstwę bezpieczeństwa i utrudnia oszustom dostęp.
 
 6. **Bądź na Bieżąco**: Edukuj się na temat powszechnych oszustw i taktyk phishingowych. Świadomość to Twoja pierwsza linia obrony.
 
